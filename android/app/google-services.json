@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155817107658",
+    "project_id": "petchef-64fe7",
+    "storage_bucket": "petchef-64fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155817107658:android:db73307c0e2138d8cd5433",
+        "android_client_info": {
+          "package_name": "com.example.petchef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQxXIjx14i9ODxIDHnNjwIVLRKG0uzMbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
